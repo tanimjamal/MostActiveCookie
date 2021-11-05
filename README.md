@@ -21,7 +21,7 @@ $ ./most_active_cookie cookie_log.csv -d 2018-12-09
 ``` 
 ### Output:
 ```
-$ ./most_active_cookie cookie_log.csv -d 2018-12-09
+AtY0laUfhglK3lC7
 ``` 
 ### We define the most active cookie as one seen in the log the most times during a given day.
 Assumptions: ● If multiple cookies meet that criteria, please return all of them on separate lines.
